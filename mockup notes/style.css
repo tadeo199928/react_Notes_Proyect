@@ -1,0 +1,98 @@
+.oswald{
+
+    font-family: "Oswald", sans-serif;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1; 
+}
+
+footer {
+
+    bottom: 0;
+    width: 100%;
+  }
+
+
+.secTitle{
+  background-color: #B55E5E;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: #FFFFFF;
+
+}
+
+.buttonEdit{
+  background-color: #3879B5;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  display: flex;
+  color: #FFFFFF;
+  font-size: 30px;
+
+}
+
+.buttonDeleted{
+  background-color: #3879B5;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  display: flex;
+  color: #FFFFFF;
+  font-size: 30px;
+
+}
+
+.buttonEditOld{
+  background-color: #3879B5;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  margin-top: 2%;
+  display: flex;
+  color: #FFFFFF;
+  font-size: 30px;
+
+}
+
+.buttonsNotes{
+
+  margin-top: 2%;
+  margin-bottom: 2%;
+  justify-content: center;
+
+}
+
+.preDivNotes{
+
+  justify-content: center;
+}
+
+.noteBody{
+
+  margin-top: 2%;
+  margin-bottom: 2%;
+  justify-content: center;
+  display: flex;
+
+}
+
+.preNotes {
+
+  background-color: #F1DD8C;
+  height: 200px; 
+  width: 200px; 
+  margin-left: 8%;
+  display: flex;
+
+}
